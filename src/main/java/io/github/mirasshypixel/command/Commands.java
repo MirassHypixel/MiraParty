@@ -1,5 +1,7 @@
 package io.github.mirasshypixel.command;
 
+//*Sam Colbourne//*
+
 import io.github.mirasshypixel.Main;
 import io.github.mirasshypixel.PartyObject;
 import org.bukkit.Bukkit;
