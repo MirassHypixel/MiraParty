@@ -11,12 +11,12 @@ public final class Main extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        getLogger().info("[Party] Plugin activated.");
+        getLogger().info("[Party] Plugin activated");
     }
 
     @Override
     public void onDisable() {
-        getLogger().info("[Party] Plugin de-activated.");
+        getLogger().info("[Party] Plugin de-activated");
     }
 
 
