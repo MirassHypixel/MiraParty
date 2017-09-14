@@ -10,6 +10,7 @@ public class PartyObject
     public List<UUID> partyList;
 
     private UUID leader;
+    private UUID participant;
 
     public PartyObject(UUID player) {
         leader = player;
